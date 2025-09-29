@@ -69,4 +69,5 @@ def translate(sentence: str):
                 
     print(f' \n {out_txt}')
     
-translate("hello iam a software developer from USA") 
+
+translate("hello iam a software developer from INDIA") 
